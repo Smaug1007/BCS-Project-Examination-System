@@ -1,0 +1,8 @@
+.navbar {
+    background-color: #ffc107; /* Yellow color for the navbar */
+    padding-left: 0; /* Remove left padding */
+}
+
+.navbar-nav {
+    margin-right: auto; /* Move navbar items to the left */
+}
